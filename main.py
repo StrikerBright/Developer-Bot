@@ -26,4 +26,4 @@ async def on_ready():
 async def on_member_join(member):
     await handle_member_join(bot, member)
 
-bot.run('MTM3NDkyODEyODIyODcyMDY5MQ.G_euYf.nifixSwyik_6o4gN1gCtY3I8xsMiW0alGBzn64')
+bot.run('YOUR_BOT_TOKEN')
